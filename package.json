@@ -1,0 +1,14 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "practising TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "EVG",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
